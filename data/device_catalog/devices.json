@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "categories": [
+    "printer",
+    "microwave",
+    "router",
+    "washing_machine",
+    "refrigerator",
+    "air_conditioner",
+    "faucet"
+  ],
+  "brands": {
+    "printer": ["HP", "Canon", "Epson", "Brother"],
+    "microwave": ["Samsung", "LG", "Panasonic", "Whirlpool"],
+    "router": ["Netgear", "TP-Link", "ASUS", "D-Link"],
+    "washing_machine": ["Samsung", "LG", "Bosch", "Whirlpool"],
+    "refrigerator": ["Samsung", "LG", "Whirlpool", "Bosch"],
+    "air_conditioner": ["Daikin", "Mitsubishi", "LG", "Panasonic"],
+    "faucet": ["Moen", "Delta", "Kohler", "Grohe"]
+  },
+  "devices": []
+}

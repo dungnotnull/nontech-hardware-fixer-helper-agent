@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+!.env.example
+
+# Logs / data (except tracked structure)
+*.log
+data/logs/
+*.jsonl
+!data/device_catalog/.gitkeep
+!data/feedback_logs/.gitkeep
+!data/crawl_cache/.gitkeep
+
+# Chroma / Qdrant local stores
+data/corpus/embeddings/
+data/corpus/bm25_index/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# Large ML caches
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local env overrides
+.env.local
+.env.*.local
