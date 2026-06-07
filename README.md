@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dungnotnull/nontech-hardware-fixer-helper-agent/main/frontend/public/logo.svg" width="120" alt="FixerAgent Logo" />
-</p>
-
 <h1 align="center">FixerAgent </h1>
 
 <p align="center">
